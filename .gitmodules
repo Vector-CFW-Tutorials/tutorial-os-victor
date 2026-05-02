@@ -1,0 +1,3 @@
+[submodule "EXTERNALS"]
+	path = EXTERNALS
+	url = https://github.com/Vector-CFW-Tutorials/tutorial-os-externals
